@@ -1,2 +1,2 @@
 Password Strength Checker
-![CyberSecurity](https://github.com/user-attachments/assets/2877f009-dce2-4a0d-ad8c-35d3fa9d05a9)
+[![Cyber-Security.png](https://i.postimg.cc/0Q5wZP12/Cyber-Security.png)](https://postimg.cc/qtYqvf79)
